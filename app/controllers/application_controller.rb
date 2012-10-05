@@ -35,7 +35,7 @@ protected
 
   def set_locale
     begin
-    @@oauth = Koala::Facebook::OAuth.new 117195118431539, '5b5e4e50afbcfb81a8717479afe050c1', 'http://adopt-a-hydrant-banff.herokuapp.com/'
+    @@oauth = Koala::Facebook::OAuth.new 498286800189061, '52d10f2ca2182e8fc4f1989a37b283ee', 'http://adopt-a-hydrant-banff.herokuapp.com/'
     if !request[:code].nil?
       @@graph = Koala::Facebook::API.new @@oauth.get_access_token(request[:code])
       @@profile = @@graph.get_object 'me'
