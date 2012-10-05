@@ -14,8 +14,6 @@ gem 'immigrant'
 gem 'libxml-ruby'
 gem 'referthis'
 gem 'koala'
-gem 'newrelic_rpm'
-gem 'spreader'
 
 platforms :ruby_18 do
   gem 'fastercsv'
@@ -25,7 +23,6 @@ group :assets do
   gem 'sass-rails'
   gem 'uglifier'
   gem 'font-awesome-sass-rails', '2.0.0.0'
-  gem 'asset_sync'
 end
 
 group :production do
