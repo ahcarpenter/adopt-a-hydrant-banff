@@ -1,0 +1,109 @@
+# Please maintain alphabetical order
+
+ht:
+  buttons:
+    abandon: "Abandone sa a %{thing}"
+    adopt: 'Adopte!'
+    back: 'Retounen'
+    change_password: 'Chanje modpas mwen'
+    close: 'Fèmen'
+    connect: 'Konekte'
+    edit_profile: 'Edit pwofil'
+    email_password: "Voye yon imèl ba m 'modpas mwen"
+    find: "Jwenn %{thing}"
+    send_referral: 'Voye rekòmandasyon'
+    send_reminder: 'Voye rapèl pèl'
+    sign_in: 'Log in'
+    sign_out: 'Log soti'
+    sign_up: 'Enskri w'
+    update: 'Mete ajou'
+  captions:
+    private: '(prive)'
+  defaults:
+    address: 'adrès'
+    address_1: '55 Eddy St.'
+    address_2: ''
+    city: 'Banff'
+    city_state: 'Banff, Alberta'
+    neighborhood: 'Downtown'
+    sms_number: '403-555-555'
+    state: 'AB'
+    thing: 'tiyo'
+    this_thing: "Sa a %{thing}"
+    tagline: 'Responsablite reklamasyon pou peltan soti yon tiyo dife apre li fin nèj.'
+    tos: "Lè ou siyen yo, ou dakò ak %{tos}."
+    voice_number: '403-555-555'
+    zip: 'T1L 1A1'
+  errors:
+    password: 'Ou bezwen Pou ouvri sesyon nan oswa si ou siyen kanpe devan kontinye.'
+    not_found: "Pa t 'kapab jwenn %{thing}."
+  labels:
+    address: 'Adrès yo'
+    address_1: 'Liy Adrès 1'
+    address_2: 'Liy Adrès 2'
+    city: 'Vil'
+    city_state: 'Vil'
+    disable_adopted_sieve: 'Enfim adopte Van'
+    disable_email_notifications: 'Enfim notifikasyon atravè imel si Lanèj ki Tonbe an te prévue'
+    disable_sms_notifications: Enfim notifikasyon via SMS si Lanèj ki Tonbe an te prévue'
+    disable_email_transmission: 'Enfim transmisyon atravè imel'
+    disable_sms_transmission: 'Enfim transmisyon via SMS'
+    email: 'Adrès imel'
+    enable_adopted_sieve: 'Pèmèt adopte Van'
+    enable_email_notifications: 'Pèmèt notifikasyon atravè imel si Lanèj ki Tonbe an te prévue'
+    enable_sms_notifications: 'Pèmèt notifikasyon via SMS si Lanèj ki Tonbe an te prévue'
+    enable_email_transmission: 'Pèmèt transmisyon atravè imel'
+    enable_sms_transmission: 'Pèmèt transmisyon via SMS'
+    log_in: 'Log in'
+    name: 'Non'
+    name_thing: "Bay sa a %{thing} yon non"
+    organization: 'Òganizasyon'
+    password: 'Modpas'
+    password_choose: 'Chwazi yon modpas.'
+    password_current: 'Aktyèl modpas'
+    password_new: 'Nouvo modpas'
+    preview: 'Preview'
+    remember_me: "Toujou chonje m '"
+    required: 'Obligatwa'
+    sidebar: 'Tiyo glise ankadre'
+    sms_number: 'Telefòn mobil nimewo'
+    state: 'Eta'
+    user_existing: 'Mwen te deja siyen moute'
+    user_new: 'Mwen pa te siyen moute ankò'
+    voice_number: 'Nimewo Telefòn Lakay'
+    zip: 'Kòd postal'
+  links:
+    data: 'Done'
+    feedback: 'Voye fidbak'
+    forgot_password: 'Bliye modpas ou a?'
+    remembered_password: 'Pa janm bliye. Mwen vin chonje modpas mwen.'
+  notices:
+    abandoned: 'Tiyo abandone!'
+    adopted: 'Tiyo adopte!'
+    password_reset: 'Enstriksyon Reset modpas voye! Tcheke imel ou.'
+    profile_updated: 'Profile mete ajou!'
+    referral_sent: 'Referans voye!'
+    referral0: 'te refere ou a'
+    referral1: 'Ou ka enterese nan bagay sa yo:'
+    reminder_sent: 'Rapèl voye!'
+    signed_in: 'Logged in!'
+    signed_out: 'Logged deyò.'
+    signed_up: 'Mèsi pou siyen moute!'
+    stolen: 'Tiyo yo vòlè!'
+  questions:
+    abandon: 'Èske ou sèten ou vle abandone sa a tiyo?'
+  sponsors:
+    built: 'Bati nan Boston & Lexington'
+    cfa: 'Kòd pou Amerik'
+  titles:
+    adopt: "Adopte sa a %{thing}"
+    adopted: "%{thing_name} ki te adopte"
+    byline: "pa %{name}"
+    conflict: "Mèsi pou adopte sa a %{thing} pi bonè!"
+    edit_profile: 'Edit pwofil ou'
+    main: "Adopt-a-%{thing}"
+    ofline: "nan %{organization}"
+    referral: 'Refere'
+    sign_in: "yo adopte sa a fontèn dlo"
+    thank_you: "Mèsi pou adopte sa a %{thing}!"
+    tos: 'Tèm de Sèvis'

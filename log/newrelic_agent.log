@@ -1,0 +1,290 @@
+# Logfile created on 2012-09-10 12:30:25 -0400 by logger.rb/31641
+[09/10/12 12:30:25 -0400 Andrew-Carpenters-Laptop.local (5395)] INFO : Dispatcher: webrick
+[09/10/12 12:30:25 -0400 Andrew-Carpenters-Laptop.local (5395)] INFO : Application: development
+[09/10/12 12:30:25 -0400 Andrew-Carpenters-Laptop.local (5395)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/10/12 12:30:25 -0400 Andrew-Carpenters-Laptop.local (5395)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 5395
+[09/10/12 12:30:25 -0400 Andrew-Carpenters-Laptop.local (5395)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/10/12 15:48:13 -0400 Andrew-Carpenters-Laptop.local (5940)] INFO : Dispatcher: webrick
+[09/10/12 15:48:13 -0400 Andrew-Carpenters-Laptop.local (5940)] INFO : Application: development
+[09/10/12 15:48:13 -0400 Andrew-Carpenters-Laptop.local (5940)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/10/12 15:48:13 -0400 Andrew-Carpenters-Laptop.local (5940)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 5940
+[09/10/12 15:48:13 -0400 Andrew-Carpenters-Laptop.local (5940)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/10/12 15:51:20 -0400 Andrew-Carpenters-Laptop.local (6081)] INFO : Dispatcher: webrick
+[09/10/12 15:51:20 -0400 Andrew-Carpenters-Laptop.local (6081)] INFO : Application: development
+[09/10/12 15:51:20 -0400 Andrew-Carpenters-Laptop.local (6081)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/10/12 15:51:20 -0400 Andrew-Carpenters-Laptop.local (6081)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 6081
+[09/10/12 15:51:20 -0400 Andrew-Carpenters-Laptop.local (6081)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/10/12 15:52:18 -0400 Andrew-Carpenters-Laptop.local (6104)] INFO : Dispatcher: webrick
+[09/10/12 15:52:18 -0400 Andrew-Carpenters-Laptop.local (6104)] INFO : Application: development
+[09/10/12 15:52:18 -0400 Andrew-Carpenters-Laptop.local (6104)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/10/12 15:52:18 -0400 Andrew-Carpenters-Laptop.local (6104)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 6104
+[09/10/12 15:52:18 -0400 Andrew-Carpenters-Laptop.local (6104)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/17/12 18:53:25 -0400 Andrew-Carpenters-Laptop.local (7282)] INFO : Dispatcher: webrick
+[09/17/12 18:53:25 -0400 Andrew-Carpenters-Laptop.local (7282)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[09/17/12 18:53:25 -0400 Andrew-Carpenters-Laptop.local (7282)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/17/12 18:53:25 -0400 Andrew-Carpenters-Laptop.local (7282)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 7282
+[09/17/12 18:53:25 -0400 Andrew-Carpenters-Laptop.local (7282)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/17/12 18:55:19 -0400 Andrew-Carpenters-Laptop.local (7333)] INFO : Dispatcher: webrick
+[09/17/12 18:55:19 -0400 Andrew-Carpenters-Laptop.local (7333)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[09/17/12 18:55:19 -0400 Andrew-Carpenters-Laptop.local (7333)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/17/12 18:55:19 -0400 Andrew-Carpenters-Laptop.local (7333)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 7333
+[09/17/12 18:55:19 -0400 Andrew-Carpenters-Laptop.local (7333)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/18/12 15:53:59 -0400 Andrew-Carpenters-Laptop.local (8125)] INFO : Dispatcher: webrick
+[09/18/12 15:53:59 -0400 Andrew-Carpenters-Laptop.local (8125)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[09/18/12 15:53:59 -0400 Andrew-Carpenters-Laptop.local (8125)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/18/12 15:53:59 -0400 Andrew-Carpenters-Laptop.local (8125)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 8125
+[09/18/12 15:53:59 -0400 Andrew-Carpenters-Laptop.local (8125)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/18/12 17:08:32 -0400 Andrew-Carpenters-Laptop.local (9465)] INFO : Dispatcher: webrick
+[09/18/12 17:08:32 -0400 Andrew-Carpenters-Laptop.local (9465)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[09/18/12 17:08:32 -0400 Andrew-Carpenters-Laptop.local (9465)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/18/12 17:08:32 -0400 Andrew-Carpenters-Laptop.local (9465)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 9465
+[09/18/12 17:08:32 -0400 Andrew-Carpenters-Laptop.local (9465)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/19/12 16:58:42 -0400 Andrew-Carpenters-Laptop.local (13401)] INFO : Dispatcher: webrick
+[09/19/12 16:58:42 -0400 Andrew-Carpenters-Laptop.local (13401)] INFO : Application: development
+[09/19/12 16:58:42 -0400 Andrew-Carpenters-Laptop.local (13401)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/19/12 16:58:42 -0400 Andrew-Carpenters-Laptop.local (13401)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 13401
+[09/19/12 16:58:42 -0400 Andrew-Carpenters-Laptop.local (13401)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/19/12 20:10:37 -0400 Andrew-Carpenters-Laptop.local (14354)] INFO : Dispatcher: webrick
+[09/19/12 20:10:37 -0400 Andrew-Carpenters-Laptop.local (14354)] INFO : Application: development
+[09/19/12 20:10:37 -0400 Andrew-Carpenters-Laptop.local (14354)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/19/12 20:10:37 -0400 Andrew-Carpenters-Laptop.local (14354)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 14354
+[09/19/12 20:10:37 -0400 Andrew-Carpenters-Laptop.local (14354)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/20/12 13:42:24 -0400 Andrew-Carpenters-Laptop.local (1518)] INFO : Dispatcher: webrick
+[09/20/12 13:42:24 -0400 Andrew-Carpenters-Laptop.local (1518)] INFO : Application: development
+[09/20/12 13:42:24 -0400 Andrew-Carpenters-Laptop.local (1518)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/20/12 13:42:24 -0400 Andrew-Carpenters-Laptop.local (1518)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 1518
+[09/20/12 13:42:24 -0400 Andrew-Carpenters-Laptop.local (1518)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/20/12 13:51:35 -0400 Andrew-Carpenters-Laptop.local (1680)] INFO : Dispatcher: webrick
+[09/20/12 13:51:35 -0400 Andrew-Carpenters-Laptop.local (1680)] INFO : Application: development
+[09/20/12 13:51:35 -0400 Andrew-Carpenters-Laptop.local (1680)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/20/12 13:51:35 -0400 Andrew-Carpenters-Laptop.local (1680)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 1680
+[09/20/12 13:51:35 -0400 Andrew-Carpenters-Laptop.local (1680)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/20/12 14:36:03 -0400 Andrew-Carpenters-Laptop.local (1680)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template main/index, application/index with {:locale=>[:en], :formats=>[:png], :handlers=>[:erb, :builder, :haml]}. Searched in:
+  * "/Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/rails_admin-0.0.5/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/kaminari-0.14.0/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.1.2/app/views"
+
+[09/20/12 14:36:12 -0400 Andrew-Carpenters-Laptop.local (1680)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template main/index, application/index with {:locale=>[:en], :formats=>[:png], :handlers=>[:erb, :builder, :haml]}. Searched in:
+  * "/Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/rails_admin-0.0.5/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/kaminari-0.14.0/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.1.2/app/views"
+
+[09/20/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (1680)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template main/index, application/index with {:locale=>[:en], :formats=>[:png], :handlers=>[:erb, :builder, :haml]}. Searched in:
+  * "/Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/rails_admin-0.0.5/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/kaminari-0.14.0/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.1.2/app/views"
+
+[09/20/12 15:35:10 -0400 Andrew-Carpenters-Laptop.local (1680)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Missing template main/index, application/index with {:locale=>[:en], :formats=>[:png], :handlers=>[:erb, :builder, :haml]}. Searched in:
+  * "/Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/rails_admin-0.0.5/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/kaminari-0.14.0/app/views"
+  * "/Users/ahcarpenter/.rvm/gems/ruby-1.9.3-p194/gems/devise-2.1.2/app/views"
+
+[09/20/12 15:39:55 -0400 Andrew-Carpenters-Laptop.local (3565)] INFO : Dispatcher: webrick
+[09/20/12 15:39:55 -0400 Andrew-Carpenters-Laptop.local (3565)] INFO : Application: development
+[09/20/12 15:39:55 -0400 Andrew-Carpenters-Laptop.local (3565)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/20/12 15:39:55 -0400 Andrew-Carpenters-Laptop.local (3565)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 3565
+[09/20/12 15:39:55 -0400 Andrew-Carpenters-Laptop.local (3565)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/20/12 16:43:37 -0400 Andrew-Carpenters-Laptop.local (4192)] INFO : Dispatcher: webrick
+[09/20/12 16:43:37 -0400 Andrew-Carpenters-Laptop.local (4192)] INFO : Application: development
+[09/20/12 16:43:37 -0400 Andrew-Carpenters-Laptop.local (4192)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/20/12 16:43:37 -0400 Andrew-Carpenters-Laptop.local (4192)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4192
+[09/20/12 16:43:37 -0400 Andrew-Carpenters-Laptop.local (4192)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/21/12 17:57:06 -0400 Andrew-Carpenters-Laptop.local (5408)] INFO : Dispatcher: webrick
+[09/21/12 17:57:06 -0400 Andrew-Carpenters-Laptop.local (5408)] INFO : Application: development
+[09/21/12 17:57:06 -0400 Andrew-Carpenters-Laptop.local (5408)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/21/12 17:57:06 -0400 Andrew-Carpenters-Laptop.local (5408)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 5408
+[09/21/12 17:57:06 -0400 Andrew-Carpenters-Laptop.local (5408)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-syracuse/log/newrelic_agent.log
+[09/21/12 18:32:57 -0400 Andrew-Carpenters-Laptop.local (6516)] INFO : Dispatcher: webrick
+[09/21/12 18:32:57 -0400 Andrew-Carpenters-Laptop.local (6516)] INFO : Application: development
+[09/21/12 18:32:57 -0400 Andrew-Carpenters-Laptop.local (6516)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/21/12 18:32:57 -0400 Andrew-Carpenters-Laptop.local (6516)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 6516
+[09/21/12 18:32:57 -0400 Andrew-Carpenters-Laptop.local (6516)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/22/12 08:45:26 -0400 Andrew-Carpenters-Laptop.local (8217)] INFO : Dispatcher: webrick
+[09/22/12 08:45:26 -0400 Andrew-Carpenters-Laptop.local (8217)] INFO : Application: development
+[09/22/12 08:45:26 -0400 Andrew-Carpenters-Laptop.local (8217)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/22/12 08:45:26 -0400 Andrew-Carpenters-Laptop.local (8217)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 8217
+[09/22/12 08:45:26 -0400 Andrew-Carpenters-Laptop.local (8217)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/23/12 09:26:19 -0400 Andrew-Carpenters-Laptop.local (14642)] INFO : Dispatcher: webrick
+[09/23/12 09:26:19 -0400 Andrew-Carpenters-Laptop.local (14642)] INFO : Application: development
+[09/23/12 09:26:19 -0400 Andrew-Carpenters-Laptop.local (14642)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/23/12 09:26:19 -0400 Andrew-Carpenters-Laptop.local (14642)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 14642
+[09/23/12 09:26:19 -0400 Andrew-Carpenters-Laptop.local (14642)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/23/12 20:48:28 -0400 Andrew-Carpenters-Laptop.local (17819)] INFO : Dispatcher: webrick
+[09/23/12 20:48:28 -0400 Andrew-Carpenters-Laptop.local (17819)] INFO : Application: development
+[09/23/12 20:48:28 -0400 Andrew-Carpenters-Laptop.local (17819)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/23/12 20:48:28 -0400 Andrew-Carpenters-Laptop.local (17819)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 17819
+[09/23/12 20:48:28 -0400 Andrew-Carpenters-Laptop.local (17819)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 07:11:09 -0400 Andrew-Carpenters-Laptop.local (18440)] INFO : Dispatcher: webrick
+[09/24/12 07:11:09 -0400 Andrew-Carpenters-Laptop.local (18440)] INFO : Application: development
+[09/24/12 07:11:09 -0400 Andrew-Carpenters-Laptop.local (18440)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 07:11:09 -0400 Andrew-Carpenters-Laptop.local (18440)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 18440
+[09/24/12 07:11:09 -0400 Andrew-Carpenters-Laptop.local (18440)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 07:32:23 -0400 Andrew-Carpenters-Laptop.local (18685)] INFO : Dispatcher: webrick
+[09/24/12 07:32:23 -0400 Andrew-Carpenters-Laptop.local (18685)] INFO : Application: development
+[09/24/12 07:32:23 -0400 Andrew-Carpenters-Laptop.local (18685)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 07:32:23 -0400 Andrew-Carpenters-Laptop.local (18685)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 18685
+[09/24/12 07:32:23 -0400 Andrew-Carpenters-Laptop.local (18685)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 15:17:03 -0400 Andrew-Carpenters-Laptop.local (2751)] INFO : Dispatcher: webrick
+[09/24/12 15:17:03 -0400 Andrew-Carpenters-Laptop.local (2751)] INFO : Application: development
+[09/24/12 15:17:03 -0400 Andrew-Carpenters-Laptop.local (2751)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 15:17:03 -0400 Andrew-Carpenters-Laptop.local (2751)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 2751
+[09/24/12 15:17:03 -0400 Andrew-Carpenters-Laptop.local (2751)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 15:20:23 -0400 Andrew-Carpenters-Laptop.local (2795)] INFO : Dispatcher: webrick
+[09/24/12 15:20:23 -0400 Andrew-Carpenters-Laptop.local (2795)] INFO : Application: development
+[09/24/12 15:20:23 -0400 Andrew-Carpenters-Laptop.local (2795)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 15:20:23 -0400 Andrew-Carpenters-Laptop.local (2795)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 2795
+[09/24/12 15:20:23 -0400 Andrew-Carpenters-Laptop.local (2795)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (2960)] INFO : Dispatcher: webrick
+[09/24/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (2960)] INFO : Application: development
+[09/24/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (2960)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (2960)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 2960
+[09/24/12 15:35:09 -0400 Andrew-Carpenters-Laptop.local (2960)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 15:36:20 -0400 Andrew-Carpenters-Laptop.local (2999)] INFO : Dispatcher: webrick
+[09/24/12 15:36:20 -0400 Andrew-Carpenters-Laptop.local (2999)] INFO : Application: development
+[09/24/12 15:36:20 -0400 Andrew-Carpenters-Laptop.local (2999)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 15:36:20 -0400 Andrew-Carpenters-Laptop.local (2999)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 2999
+[09/24/12 15:36:20 -0400 Andrew-Carpenters-Laptop.local (2999)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:24:39 -0400 Andrew-Carpenters-Laptop.local (4382)] INFO : Dispatcher: webrick
+[09/24/12 18:24:39 -0400 Andrew-Carpenters-Laptop.local (4382)] INFO : Application: development
+[09/24/12 18:24:39 -0400 Andrew-Carpenters-Laptop.local (4382)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:24:39 -0400 Andrew-Carpenters-Laptop.local (4382)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4382
+[09/24/12 18:24:39 -0400 Andrew-Carpenters-Laptop.local (4382)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:35:50 -0400 Andrew-Carpenters-Laptop.local (4524)] INFO : Dispatcher: webrick
+[09/24/12 18:35:50 -0400 Andrew-Carpenters-Laptop.local (4524)] INFO : Application: development
+[09/24/12 18:35:50 -0400 Andrew-Carpenters-Laptop.local (4524)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:35:50 -0400 Andrew-Carpenters-Laptop.local (4524)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4524
+[09/24/12 18:35:50 -0400 Andrew-Carpenters-Laptop.local (4524)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:36:27 -0400 Andrew-Carpenters-Laptop.local (4544)] INFO : Dispatcher: webrick
+[09/24/12 18:36:27 -0400 Andrew-Carpenters-Laptop.local (4544)] INFO : Application: development
+[09/24/12 18:36:27 -0400 Andrew-Carpenters-Laptop.local (4544)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:36:27 -0400 Andrew-Carpenters-Laptop.local (4544)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4544
+[09/24/12 18:36:27 -0400 Andrew-Carpenters-Laptop.local (4544)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:39:20 -0400 Andrew-Carpenters-Laptop.local (4575)] INFO : Dispatcher: webrick
+[09/24/12 18:39:20 -0400 Andrew-Carpenters-Laptop.local (4575)] INFO : Application: development
+[09/24/12 18:39:20 -0400 Andrew-Carpenters-Laptop.local (4575)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:39:20 -0400 Andrew-Carpenters-Laptop.local (4575)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4575
+[09/24/12 18:39:20 -0400 Andrew-Carpenters-Laptop.local (4575)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:42:49 -0400 Andrew-Carpenters-Laptop.local (4631)] INFO : Dispatcher: webrick
+[09/24/12 18:42:49 -0400 Andrew-Carpenters-Laptop.local (4631)] INFO : Application: development
+[09/24/12 18:42:49 -0400 Andrew-Carpenters-Laptop.local (4631)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:42:49 -0400 Andrew-Carpenters-Laptop.local (4631)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4631
+[09/24/12 18:42:49 -0400 Andrew-Carpenters-Laptop.local (4631)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:44:49 -0400 Andrew-Carpenters-Laptop.local (4662)] INFO : Dispatcher: webrick
+[09/24/12 18:44:49 -0400 Andrew-Carpenters-Laptop.local (4662)] INFO : Application: development
+[09/24/12 18:44:49 -0400 Andrew-Carpenters-Laptop.local (4662)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:44:49 -0400 Andrew-Carpenters-Laptop.local (4662)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4662
+[09/24/12 18:44:49 -0400 Andrew-Carpenters-Laptop.local (4662)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/24/12 18:57:17 -0400 Andrew-Carpenters-Laptop.local (4691)] INFO : Dispatcher: webrick
+[09/24/12 18:57:17 -0400 Andrew-Carpenters-Laptop.local (4691)] INFO : Application: development
+[09/24/12 18:57:17 -0400 Andrew-Carpenters-Laptop.local (4691)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/24/12 18:57:17 -0400 Andrew-Carpenters-Laptop.local (4691)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 4691
+[09/24/12 18:57:17 -0400 Andrew-Carpenters-Laptop.local (4691)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/26/12 08:20:44 -0400 Andrew-Carpenters-Laptop.local (10424)] INFO : Dispatcher: webrick
+[09/26/12 08:20:44 -0400 Andrew-Carpenters-Laptop.local (10424)] INFO : Application: development
+[09/26/12 08:20:44 -0400 Andrew-Carpenters-Laptop.local (10424)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/12 08:20:44 -0400 Andrew-Carpenters-Laptop.local (10424)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 10424
+[09/26/12 08:20:44 -0400 Andrew-Carpenters-Laptop.local (10424)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/26/12 19:05:53 -0400 Andrew-Carpenters-Laptop.local (12406)] INFO : Dispatcher: webrick
+[09/26/12 19:05:53 -0400 Andrew-Carpenters-Laptop.local (12406)] INFO : Application: development
+[09/26/12 19:05:53 -0400 Andrew-Carpenters-Laptop.local (12406)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/12 19:05:53 -0400 Andrew-Carpenters-Laptop.local (12406)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 12406
+[09/26/12 19:05:53 -0400 Andrew-Carpenters-Laptop.local (12406)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/26/12 19:06:20 -0400 Andrew-Carpenters-Laptop.local (12426)] INFO : Dispatcher: webrick
+[09/26/12 19:06:20 -0400 Andrew-Carpenters-Laptop.local (12426)] INFO : Application: development
+[09/26/12 19:06:20 -0400 Andrew-Carpenters-Laptop.local (12426)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/26/12 19:06:20 -0400 Andrew-Carpenters-Laptop.local (12426)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 12426
+[09/26/12 19:06:20 -0400 Andrew-Carpenters-Laptop.local (12426)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 13:42:34 -0400 Andrew-Carpenters-Laptop.local (13199)] INFO : Dispatcher: webrick
+[09/27/12 13:42:34 -0400 Andrew-Carpenters-Laptop.local (13199)] INFO : Application: development
+[09/27/12 13:42:34 -0400 Andrew-Carpenters-Laptop.local (13199)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 13:42:34 -0400 Andrew-Carpenters-Laptop.local (13199)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 13199
+[09/27/12 13:42:34 -0400 Andrew-Carpenters-Laptop.local (13199)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 14:20:05 -0400 Andrew-Carpenters-Laptop.local (14216)] INFO : Dispatcher: webrick
+[09/27/12 14:20:05 -0400 Andrew-Carpenters-Laptop.local (14216)] INFO : Application: development
+[09/27/12 14:20:05 -0400 Andrew-Carpenters-Laptop.local (14216)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 14:20:05 -0400 Andrew-Carpenters-Laptop.local (14216)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 14216
+[09/27/12 14:20:05 -0400 Andrew-Carpenters-Laptop.local (14216)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:03:14 -0400 Andrew-Carpenters-Laptop.local (14960)] INFO : Dispatcher: webrick
+[09/27/12 15:03:14 -0400 Andrew-Carpenters-Laptop.local (14960)] INFO : Application: development
+[09/27/12 15:03:14 -0400 Andrew-Carpenters-Laptop.local (14960)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:03:14 -0400 Andrew-Carpenters-Laptop.local (14960)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 14960
+[09/27/12 15:03:14 -0400 Andrew-Carpenters-Laptop.local (14960)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:05:30 -0400 Andrew-Carpenters-Laptop.local (15013)] INFO : Dispatcher: webrick
+[09/27/12 15:05:30 -0400 Andrew-Carpenters-Laptop.local (15013)] INFO : Application: development
+[09/27/12 15:05:30 -0400 Andrew-Carpenters-Laptop.local (15013)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:05:30 -0400 Andrew-Carpenters-Laptop.local (15013)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 15013
+[09/27/12 15:05:30 -0400 Andrew-Carpenters-Laptop.local (15013)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:07:11 -0400 Andrew-Carpenters-Laptop.local (15045)] INFO : Dispatcher: webrick
+[09/27/12 15:07:11 -0400 Andrew-Carpenters-Laptop.local (15045)] INFO : Application: development
+[09/27/12 15:07:11 -0400 Andrew-Carpenters-Laptop.local (15045)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:07:11 -0400 Andrew-Carpenters-Laptop.local (15045)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 15045
+[09/27/12 15:07:11 -0400 Andrew-Carpenters-Laptop.local (15045)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:08:10 -0400 Andrew-Carpenters-Laptop.local (15074)] INFO : Dispatcher: webrick
+[09/27/12 15:08:10 -0400 Andrew-Carpenters-Laptop.local (15074)] INFO : Application: development
+[09/27/12 15:08:10 -0400 Andrew-Carpenters-Laptop.local (15074)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:08:10 -0400 Andrew-Carpenters-Laptop.local (15074)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 15074
+[09/27/12 15:08:10 -0400 Andrew-Carpenters-Laptop.local (15074)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:24:12 -0400 Andrew-Carpenters-Laptop.local (15159)] INFO : Dispatcher: webrick
+[09/27/12 15:24:12 -0400 Andrew-Carpenters-Laptop.local (15159)] INFO : Application: development
+[09/27/12 15:24:12 -0400 Andrew-Carpenters-Laptop.local (15159)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:24:12 -0400 Andrew-Carpenters-Laptop.local (15159)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 15159
+[09/27/12 15:24:12 -0400 Andrew-Carpenters-Laptop.local (15159)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/27/12 15:25:25 -0400 Andrew-Carpenters-Laptop.local (15192)] INFO : Dispatcher: webrick
+[09/27/12 15:25:25 -0400 Andrew-Carpenters-Laptop.local (15192)] INFO : Application: development
+[09/27/12 15:25:25 -0400 Andrew-Carpenters-Laptop.local (15192)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/27/12 15:25:25 -0400 Andrew-Carpenters-Laptop.local (15192)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 15192
+[09/27/12 15:25:25 -0400 Andrew-Carpenters-Laptop.local (15192)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/28/12 05:41:50 -0400 Andrew-Carpenters-Laptop.local (17255)] INFO : Dispatcher: webrick
+[09/28/12 05:41:50 -0400 Andrew-Carpenters-Laptop.local (17255)] INFO : Application: development
+[09/28/12 05:41:50 -0400 Andrew-Carpenters-Laptop.local (17255)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/28/12 05:41:50 -0400 Andrew-Carpenters-Laptop.local (17255)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 17255
+[09/28/12 05:41:50 -0400 Andrew-Carpenters-Laptop.local (17255)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 17:36:56 -0400 Andrew-Carpenters-Laptop.local (23113)] INFO : Dispatcher: webrick
+[09/30/12 17:36:56 -0400 Andrew-Carpenters-Laptop.local (23113)] INFO : Application: development
+[09/30/12 17:36:56 -0400 Andrew-Carpenters-Laptop.local (23113)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 17:36:56 -0400 Andrew-Carpenters-Laptop.local (23113)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 23113
+[09/30/12 17:36:56 -0400 Andrew-Carpenters-Laptop.local (23113)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 17:38:28 -0400 Andrew-Carpenters-Laptop.local (23149)] INFO : Dispatcher: webrick
+[09/30/12 17:38:28 -0400 Andrew-Carpenters-Laptop.local (23149)] INFO : Application: development
+[09/30/12 17:38:28 -0400 Andrew-Carpenters-Laptop.local (23149)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 17:38:28 -0400 Andrew-Carpenters-Laptop.local (23149)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 23149
+[09/30/12 17:38:28 -0400 Andrew-Carpenters-Laptop.local (23149)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 18:05:21 -0400 Andrew-Carpenters-Laptop.local (24091)] INFO : Dispatcher: webrick
+[09/30/12 18:05:21 -0400 Andrew-Carpenters-Laptop.local (24091)] INFO : Application: development
+[09/30/12 18:05:21 -0400 Andrew-Carpenters-Laptop.local (24091)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 18:05:21 -0400 Andrew-Carpenters-Laptop.local (24091)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 24091
+[09/30/12 18:05:21 -0400 Andrew-Carpenters-Laptop.local (24091)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 18:19:27 -0400 Andrew-Carpenters-Laptop.local (24375)] INFO : Dispatcher: webrick
+[09/30/12 18:19:27 -0400 Andrew-Carpenters-Laptop.local (24375)] INFO : Application: development
+[09/30/12 18:19:27 -0400 Andrew-Carpenters-Laptop.local (24375)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 18:19:27 -0400 Andrew-Carpenters-Laptop.local (24375)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 24375
+[09/30/12 18:19:27 -0400 Andrew-Carpenters-Laptop.local (24375)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 19:03:20 -0400 Andrew-Carpenters-Laptop.local (25112)] INFO : Dispatcher: webrick
+[09/30/12 19:03:20 -0400 Andrew-Carpenters-Laptop.local (25112)] INFO : Application: development
+[09/30/12 19:03:20 -0400 Andrew-Carpenters-Laptop.local (25112)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 19:03:20 -0400 Andrew-Carpenters-Laptop.local (25112)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 25112
+[09/30/12 19:03:20 -0400 Andrew-Carpenters-Laptop.local (25112)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[09/30/12 20:11:46 -0400 Andrew-Carpenters-Laptop.local (713)] INFO : Dispatcher: webrick
+[09/30/12 20:11:46 -0400 Andrew-Carpenters-Laptop.local (713)] INFO : Application: development
+[09/30/12 20:11:46 -0400 Andrew-Carpenters-Laptop.local (713)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[09/30/12 20:11:46 -0400 Andrew-Carpenters-Laptop.local (713)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 713
+[09/30/12 20:11:46 -0400 Andrew-Carpenters-Laptop.local (713)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-providence/log/newrelic_agent.log
+[10/05/12 15:20:18 -0400 Andrew-Carpenters-Laptop.local (32688)] INFO : Dispatcher: webrick
+[10/05/12 15:20:19 -0400 Andrew-Carpenters-Laptop.local (32688)] INFO : Application: development
+[10/05/12 15:20:19 -0400 Andrew-Carpenters-Laptop.local (32688)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/12 15:20:19 -0400 Andrew-Carpenters-Laptop.local (32688)] INFO : New Relic Ruby Agent 3.3.5 Initialized: pid = 32688
+[10/05/12 15:20:19 -0400 Andrew-Carpenters-Laptop.local (32688)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-banff/log/newrelic_agent.log
+[10/05/12 15:22:32 -0400 Andrew-Carpenters-Laptop.local (32912)] INFO : Dispatcher: webrick
+[10/05/12 15:22:32 -0400 Andrew-Carpenters-Laptop.local (32912)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[10/05/12 15:22:32 -0400 Andrew-Carpenters-Laptop.local (32912)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/12 15:22:32 -0400 Andrew-Carpenters-Laptop.local (32912)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 32912
+[10/05/12 15:22:32 -0400 Andrew-Carpenters-Laptop.local (32912)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-banff/log/newrelic_agent.log
+[10/05/12 15:32:22 -0400 Andrew-Carpenters-Laptop.local (33090)] INFO : Dispatcher: webrick
+[10/05/12 15:32:22 -0400 Andrew-Carpenters-Laptop.local (33090)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[10/05/12 15:32:22 -0400 Andrew-Carpenters-Laptop.local (33090)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[10/05/12 15:32:22 -0400 Andrew-Carpenters-Laptop.local (33090)] INFO : New Relic Ruby Agent 3.4.2.1 Initialized: pid = 33090
+[10/05/12 15:32:22 -0400 Andrew-Carpenters-Laptop.local (33090)] INFO : Agent Log at /Users/ahcarpenter/Dropbox/workspace/Web Applications/adopt-a-hydrant-banff/log/newrelic_agent.log

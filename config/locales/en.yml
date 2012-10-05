@@ -1,0 +1,112 @@
+# Please maintain alphabetical order
+
+en:
+  buttons:
+    abandon: "Abandon this %{thing}"
+    adopt: 'Adopt!'
+    back: 'Back'
+    change_password: 'Change password'
+    close: 'Close'
+    connect: 'Connect'
+    edit_profile: 'Edit profile'
+    email_password: 'Email me my password'
+    find: "Find %{thing}"
+    send_referral: 'Send referral'
+    send_reminder: 'Send reminder to shovel'
+    sign_in: 'Log in'
+    sign_out: 'Log out'
+    sign_up: 'Sign up'
+    update: 'Save'
+  captions:
+    optional: '(optional)'
+    private: '(private)'
+    public: '(visible to others)'
+    required: '(required)'
+  defaults:
+    address: 'address'
+    address_1: '55 Eddy St.'
+    address_2: ''
+    city: 'Banff'
+    city_state: 'Banff, Alberta'
+    neighborhood: 'Downtown'
+    sms_number: '403-555-555'
+    state: 'AB'
+    thing: 'hydrant'
+    this_thing: "This %{thing}"
+    tagline: 'Claim responsibility for shoveling out a fire hydrant after it snows.'
+    tos: "By signing up, you agree to the %{tos}."
+    voice_number: '403-555-555'
+    zip: 'T1L 1A1'
+  errors:
+    password: 'You need to log in or sign up before continuing.'
+    not_found: "Could not find %{thing}."
+  labels:
+    address: 'Address'
+    address_1: 'Address line 1'
+    address_2: 'Address line 2'
+    city: 'City'
+    city_state: 'City'
+    disable_adopted_sieve: 'Disable adopted sieve'
+    disable_email_notifications: 'Disable notification via email if snowfall has been forecasted'
+    disable_sms_notifications: 'Disable notification via SMS if snowfall has been forecasted'
+    disable_email_transmission: 'Disable transmission via email'
+    disable_sms_transmission: 'Disable transmission via SMS'
+    email: 'Email address'
+    enable_adopted_sieve: 'Enable adopted sieve'
+    enable_email_notifications: 'Enable notification via email if snowfall has been forecasted'
+    enable_sms_notifications: 'Enable notification via SMS if snowfall has been forecasted'
+    enable_email_transmission: 'Enable transmission via email'
+    enable_sms_transmission: 'Enable transmission via SMS'
+    log_in: 'Log in'
+    name: 'Name'
+    name_thing: "Name this %{thing}"
+    organization: 'Organization'
+    password: 'Password'
+    password_choose: 'Choose a password'
+    password_current: 'Current password'
+    password_new: 'New password'
+    preview: 'Preview'
+    remember_me: 'Remember me'
+    required: 'Required'
+    sidebar: 'Tap to slide sidebar'
+    sms_number: 'Mobile phone number'
+    state: 'State'
+    user_existing: "I've already signed up"
+    user_new: "I haven't signed up yet"
+    voice_number: 'Home phone number'
+    zip: 'ZIP code'
+  links:
+    data: 'Data'
+    feedback: 'Send feedback'
+    forgot_password: 'Forgot password?'
+    remembered_password: 'Never mind. I remembered my password.'
+  notices:
+    abandoned: 'Hydrant abandoned!'
+    adopted: 'Hydrant adopted!'
+    password_reset: 'Password reset instructions sent! Check your email.'
+    profile_updated: 'Profile updated!'
+    referral_sent: 'Referral sent!'
+    referral0: 'has referred you to'
+    referral1: 'You might be interested in the following:'
+    reminder_sent: 'Reminder sent!'
+    signed_in: 'Logged in!'
+    signed_out: 'Logged out.'
+    signed_up: 'Thanks for signing up!'
+    stolen: 'Hydrant stolen!'
+  questions:
+    abandon: 'Are you sure you want to abandon this hydrant?'
+  sponsors:
+    built: 'Built in Boston & Lexington'
+    cfa: 'Code for America'
+  titles:
+    adopt: "Adopt this %{thing}"
+    adopted: "%{thing_name} has been adopted"
+    byline: "by %{name}"
+    conflict: "Thank you for adopting this %{thing} earlier!"
+    edit_profile: 'Edit your profile'
+    main: "Adopt-a-%{thing}"
+    ofline: "of %{organization}"
+    referral: 'Refer'
+    sign_in: "to adopt this %{thing}"
+    thank_you: "Thank you for adopting this %{thing}!"
+    tos: 'Terms of Service'

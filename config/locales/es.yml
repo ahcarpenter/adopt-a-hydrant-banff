@@ -1,0 +1,109 @@
+# Please maintain alphabetical order
+
+es:
+  buttons:
+    abandon: 'Abandona esta boca'
+    adopt: 'Adoptar!'
+    back: 'De nuevo'
+    change_password: 'Cambiar mi contraseña'
+    close: 'Cerca'
+    connect: 'Conectar'
+    edit_profile: 'Editar perfil'
+    email_password: 'Correo electrónico mi contraseña'
+    find: "Encontrar %{thing}"
+    send_referral: 'Enviar referencia'
+    send_reminder: 'Enviar aviso a pala'
+    sign_in: 'Acceder'
+    sign_out: 'Finalizar la sesión'
+    sign_up: 'Regístrate'
+    update: 'Actualización'
+  captions:
+    private: '(privado)'
+  defaults:
+    address: 'dirección'
+    address_1: '55 Eddy St.'
+    address_2: ''
+    city: 'Banff'
+    city_state: 'Banff, Alberta'
+    neighborhood: 'Downtown'
+    sms_number: '403-555-555'
+    state: 'AB'
+    thing: 'boca de incendio'
+    this_thing: "Esta %{thing}"
+    tagline: 'Reclamar la responsabilidad para palear un hidrante de incendios después de que las nieves.'
+    tos: "Al registrarse, usted está de acuerdo con los %{tos}."
+    voice_number: '403-555-555'
+    zip: 'T1L 1A1'
+  errors:
+    password: 'Tienes que iniciar sesión o registrarse antes de continuar.'
+    not_found: "No se pudo encontrar %{thing}."
+  labels:
+    address: 'Dirección'
+    address_1: 'Dirección línea 1'
+    address_2: 'Dirección línea 2'
+    city: 'Ciudad'
+    city_state: 'Ciudad'
+    disable_adopted_sieve: 'Desactivar la criba adoptada'
+    disable_email_notifications: 'Desactivar la notificación por correo electrónico si se ha previsto nevadas'
+    disable_sms_notifications: 'Desactivar la notificación vía SMS en caso de nevadas se ha previsto'
+    disable_email_transmission: 'Deshabilitar la transmisión por correo electrónico'
+    disable_sms_transmission: 'Deshabilitar la transmisión a través de SMS'
+    email: 'Dirección de correo electrónico'
+    enable_adopted_sieve: 'Habilitar el tamiz adoptada'
+    enable_email_notifications: 'Activar la notificación por correo electrónico si se ha previsto nevadas'
+    enable_sms_notifications: 'Activar la notificación a través de SMS si se ha previsto nevadas'
+    enable_email_transmission: 'Activar la transmisión por correo electrónico'
+    enable_sms_transmission: 'Permitir la transmisión a través de SMS'
+    log_in: 'Iniciar la sesión'
+    name: 'Nombre'
+    name_thing: 'Dar a esta toma de agua un nombre'
+    organization: 'Organización'
+    password: 'Contraseña'
+    password_choose: 'Elija una contraseña'
+    password_current: 'Contraseña actual'
+    password_new: 'Una nueva contraseña'
+    preview: 'Vista previa'
+    remember_me: 'Recuérdame'
+    required: 'Necesario'
+    sidebar: 'Pulse para deslizar la barra lateral'
+    sms_number: 'Número de teléfono móvil'
+    state: 'Estado'
+    user_existing: 'Ya he firmado'
+    user_new: 'No se ha inscrito'
+    voice_number: 'Número de teléfono'
+    zip: 'Código postal'
+  links:
+    data: 'Datos'
+    feedback: 'Envíenos sus comentarios'
+    forgot_password: '¿Olvidaste tu contraseña?'
+    remembered_password: 'No importa. Me acordé de mi contraseña.'
+  notices:
+    abandoned: 'Toma de agua abandonada!'
+    adopted: 'Hidrante adoptado!'
+    password_reset: 'Las instrucciones de restablecimiento de contraseña enviado! Revise su correo electrónico.'
+    profile_updated: 'Perfil actualizado!'
+    referral_sent: 'Referencia enviado!'
+    referral0: 'se ha referido a'
+    referral1: 'Usted podría estar interesado en lo siguiente:'
+    reminder_sent: 'Recordatorio enviado!'
+    signed_in: 'Conectado!'
+    signed_out: 'Sesión.'
+    signed_up: '¡Gracias por registrarte!'
+    stolen: 'Boca robado!'
+  questions:
+    abandon: '¿Está seguro que desea abandonar esta boca?'
+  sponsors:
+    built: 'Construido en Boston & Lexington'
+    cfa: 'Código de los Estados Unidos'
+  titles:
+    adopt: "Adoptar esta %{thing}"
+    adopted: "%{thing_name} ha sido adoptada"
+    byline: "por %{name}"
+    conflict: "Gracias por la adopción de esta %{thing} antes!"
+    edit_profile: 'Edita tu perfil'
+    main: "Adopt-a-%{thing}"
+    ofline: "de %{organization}"
+    referral: 'Remitir'
+    sign_in: "adoptar esta hidrante"
+    thank_you: "Gracias por la adopción de esta %{thing}!"
+    tos: 'Términos de Servicio'

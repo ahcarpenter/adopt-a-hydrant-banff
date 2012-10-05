@@ -1,0 +1,109 @@
+# Please maintain alphabetical order
+
+ru:
+  buttons:
+    abandon: "Отказаться от этого %{thing}"
+    adopt: 'Принять!'
+    back: 'назад'
+    change_password: 'Изменение пароля'
+    close: 'закрывать'
+    connect: 'соединяться'
+    edit_profile: 'Изменить профиль'
+    email_password: 'Напишите мне мой пароль'
+    find: "Найти %{thing}"
+    send_referral: 'Отправить направления'
+    send_reminder: 'Отправить напоминание лопатой'
+    sign_in: 'Войти'
+    sign_out: 'Выход'
+    sign_up: 'Зарегистрироваться'
+    update: 'обновление'
+  captions:
+    private: '(частное)'
+  defaults:
+    address: 'адрес'
+    address_1: '55 Eddy St.'
+    address_2: ''
+    city: 'Banff'
+    city_state: 'Banff, Alberta'
+    neighborhood: 'Downtown'
+    sms_number: '403-555-555'
+    state: 'AB'
+    thing: 'гидрант'
+    this_thing: "Это %{thing}"
+    tagline: 'На себя ответственность за лопатой из пожарного гидранта после того, как снег.'
+    tos: "Зарегистрировавшись, вы соглашаетесь с  %{tos}."
+    voice_number: '403-555-555'
+    zip: 'T1L 1A1'
+  errors:
+    password: 'Вы должны войти в систему или зарегистрироваться, прежде чем продолжить.'
+    not_found: "Не удалось найти %{thing}."
+  labels:
+    address: 'Адрес'
+    address_1: 'Адресная строка 1'
+    address_2: 'Адрес строка 2'
+    city: 'Сити'
+    city_state: 'Сити'
+    disable_adopted_sieve: 'Отключить принято сито'
+    disable_email_notifications: 'Отключить уведомление по электронной почте, если снегопад был прогнозируемым'
+    disable_sms_notifications: 'Отключить уведомление по SMS, если снегопад был прогнозируемым'
+    disable_email_transmission: 'Отключение передачи по электронной почте'
+    disable_sms_transmission: 'Отключение передачи через SMS'
+    email: 'адрес электронной почты'
+    enable_adopted_sieve: 'Включить принято сито'
+    enable_email_notifications: 'Включить уведомление по электронной почте, если снегопад был прогнозируемым'
+    enable_sms_notifications: 'Включить уведомление по SMS, если снегопад был прогнозируемым'
+    enable_email_transmission: 'Включить передачу по электронной почте'
+    enable_sms_transmission: 'Включение передачи через SMS'
+    log_in: 'войдите'
+    name: 'имя'
+    name_thing: "Дайте этому название %{thing}"
+    organization: 'организация'
+    password: 'пароль'
+    password_choose: 'Выберите пароль'
+    password_current: 'Текущий пароль'
+    password_new: 'Новый пароль'
+    preview: 'предварительный просмотр'
+    remember_me: 'Запомнить меня'
+    required: 'требуется'
+    sidebar: 'Нажмите, чтобы скользить боковой панели'
+    sms_number: 'Номер мобильного телефона'
+    state: 'состояние'
+    user_existing: 'Я уже подписал'
+    user_new: 'Я не подписал еще'
+    voice_number: 'Домашний телефон'
+    zip: 'почтовый индекс'
+  links:
+    data: 'данные'
+    feedback: 'обратная связь'
+    forgot_password: 'Забыли пароль?'
+    remembered_password: 'Не берите в голову. Я вспомнил пароль.'
+  notices:
+    abandoned: 'Гидрант отказались!'
+    adopted: 'Гидрант приняты!'
+    password_reset: 'Инструкции Сброс пароля отправлен! Проверьте электронную почту.'
+    profile_updated: 'Профиль обновлен!'
+    referral_sent: 'Направление отправлено!'
+    referral0: 'назвал вас'
+    referral1: 'Вы можете быть заинтересованы в следующем:'
+    reminder_sent: 'Напоминание отправлено!'
+    signed_in: 'Вход в систему!'
+    signed_out: 'Выход из системы.'
+    signed_up: 'Спасибо за регистрацию!'
+    stolen: 'Гидрант украл!'
+  questions:
+    abandon: 'Вы уверены, что хотите отказаться от этой гидрант?'
+  sponsors:
+    built: 'Встроенный в Бостоне & Лексингтон'
+    cfa: 'Код для Америки'
+  titles:
+    adopt: "Принятие этого %{thing}"
+    adopted: "%{thing_name} был принят"
+    byline: "по %{name}"
+    conflict: "Благодарим Вас за принятие этого %{thing} раньше!"
+    edit_profile: 'Изменить профиль'
+    main: "Adopt-a-%{thing}"
+    ofline: "из %{organization}"
+    referral: 'обращаться'
+    sign_in: "принять этот гидрант"
+    thank_you: "Благодарим Вас за принятие этого %{thing}!"
+    tos: 'Условия предоставления услуг'

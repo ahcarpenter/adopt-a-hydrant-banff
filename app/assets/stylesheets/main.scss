@@ -1,0 +1,688 @@
+//http://railscasts.com/episodes/268-sass-basics?view=comments
+//http://stackoverflow.com/questions/10441563/asset-pipeline-and-font-face-on-railsrails-3-2-3
+//http://stackoverflow.com/questions/5874122/is-it-possible-to-detect-firefox-users-in-pure-css
+//http://stackoverflow.com/questions/7362340/disable-horizontal-scroll-on-div
+//http://w3schools.com/cssref/css3/pr_word-wrap.asp
+//http://www.w3schools.com/cssref/pr_background-color.asp
+//http://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+//http://www.w3schools.com/css3/css3_borders.asp
+//http://www.w3schools.com/cssref/css3_pr_border-radius.asp
+//http://railscasts.com/episodes/268-sass-basics?view=comments
+//http://stackoverflow.com/questions/10441563/asset-pipeline-and-font-face-on-railsrails-3-2-3
+//http://stackoverflow.com/questions/5874122/is-it-possible-to-detect-firefox-users-in-pure-css
+//http://stackoverflow.com/questions/7362340/disable-horizontal-scroll-on-div
+//http://www.w3schools.com/cssref/pr_background-color.asp
+//http://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+//http://www.w3schools.com/css3/css3_borders.asp
+//http://www.w3schools.com/cssref/css3_pr_border-radius.asp
+//http://www.cleancss.com/
+//http://www.w3schools.com/cssref/pr_text_text-decoration.asp
+//http://www.w3schools.com/css3/css3_transitions.asp
+@font-face {
+  font-family: MyriadPro-Semibold;
+  src: url('MyriadPro-Semibold.otf');
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: MyriadPro-Regular;
+  src: url('MyriadPro-Regular.otf');
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: BigCaslon;
+  src: url('BigCaslon.ttf');
+  font-weight: normal;
+  font-style: normal
+}
+
+.badge,
+h2,
+#adopted-sieve {  font-family: MyriadPro-Semibold }
+
+label,
+input,
+input[type="radio"],
+input[type="checkbox"],
+form select,
+button.btn,
+input[type="submit"].btn,
+a.btn,
+.sidebar p,
+.sidebar p#tagline,
+p,
+#user_email,
+#user-email-edit,
+#user_password_confirmation,
+#user_password,
+#radio1,
+#radio2,
+#referral,
+#remember_me,
+#reminder_button,
+#download-link,
+#locale {  font-family: MyriadPro-Regular }
+
+#tos,
+#tos h2,
+#tos p {  font-family: BigCaslon }
+
+html,
+body,
+.table,
+.table-cell,
+#map,
+.map-container {  height: 100% }
+
+.badge,
+.icon-download-alt,
+#download-link,
+#adopted-sieve,
+#sieve,
+.icon-list-ul,
+#sieve1,
+#test-sidebar,
+#stat1 {  position: absolute }
+
+.badge,
+#sieve,
+#sieve1 {  z-index: 3 }
+
+.badge,
+#adopted-sieve {  box-shadow: 0px 2px 4px rgba(0,0,0,0.4) }
+
+.badge,
+.alert .icon-remove,
+.icon-download-alt,
+#download-link {  margin-top: 5px }
+
+.badge,
+.sidebar p#tagline,
+.icon-hdd,
+.icon-plus,
+.icon-signin {  text-shadow: 0 1px 0 rgba(0,0,0,0.4) }
+
+.badge,
+.icon-download-alt {  padding-left: 6px }
+
+img,
+#radio1,
+#thing_name {  margin-bottom: 2px }
+
+#cfa,
+.sidebar #logos #col2,
+.sidebar #logos #col1 {  width: 100px }
+
+form,
+#address,
+#user_current_password,
+#adopt-button,
+form input.search-query,
+.table {  margin-bottom: 0 }
+
+label,
+.sidebar .alert-message.block-message,
+#tos,
+#preview,
+.preview-body,
+#remember_me {  text-align: left }
+
+input[type="radio"],
+input[type="checkbox"],
+.sidebar #logos #col1,
+.sidebar #logos #col2,
+#radio1,
+i,
+#sms_notifications,
+#email_notifications,
+#sms-referral,
+#email-referral,
+#thing_name {  float: left }
+
+#download-link,
+input[type="radio"],
+input[type="checkbox"] {  width: auto }
+
+form select,
+button.btn,
+input[type="submit"].btn,
+.sidebar #logos #syracuse_saves,
+#locale {  width: 210px }
+
+a.btn,
+h1,
+h2,
+.sidebar,
+.sidebar p#tagline {  text-align: center }
+
+.map-container,
+#map,
+.table {  width: 100% }
+
+#sms-referral,
+#email-referral,
+#send_referral,
+#preview,
+.preview-body,
+#referral #user-sms-number-label,
+#referral #user-email-label {  margin-left: 4px }
+
+.alert-message.block-message,
+#tos p,
+#email_notifications,
+#email-referral,
+#fb {  margin-bottom: 10px }
+
+.sidebar .alert-message.block-message,
+.icon-list-ul {  padding-left: 10px }
+
+.sidebar .alert-message.block-message,
+#stat1 {  z-index: 2 }
+
+.sidebar,
+#test-sidebar {  width: 250px }
+
+.sidebar,
+.icon-list-ul,
+#extrusion,
+#test-sidebar {  border-right: 1px solid #CCC }
+
+.sidebar,
+.icon-download-alt,
+#download-link,
+#test-sidebar {  background-color: white }
+
+.sidebar p#tagline,
+.icon-signin,
+.icon-plus,
+.icon-hdd {  color: #ffffff }
+
+.sidebar p#tagline,
+.icon-check,
+.icon-check-empty,
+#test-refer { margin-left: 0px }
+
+.sidebar p#tagline,
+.icon-comment-alt,
+.icon-envelope,
+.alert .icon-remove {  margin-right: 0px }
+
+.sidebar p#tagline,
+.btn-group[data-toggle='buttons-radio'],
+#sign-out-link,
+#back-link,
+#signup1,
+#log-in,
+#locale {  margin-bottom: 8px }
+
+.sidebar #logos #syracusesaves_logo,
+#save,
+#sms-referral,
+#user-email-label,
+#test-sidebar {  margin-top: 0px }
+
+.sidebar p,
+.sidebar .control-group,
+.sidebar #col1,
+#radio1,
+#remember_me,
+#fb,
+#locale {  margin-left: 20px }
+
+.sidebar #logos #col1 img,
+.icon-list-ul,
+#reminder_button {  margin-top: 10px }
+
+.sidebar #logos #col2,
+#referral .preview-body,
+#referral .preview-title,
+#text1 {  margin-left: 12px }
+
+#user_new,
+#user_existing,
+#user-remember-me,
+#login,
+#signup {  margin-top: 1px }
+
+.icon-check,
+.icon-check-empty {  margin-top: -17px }
+
+#required,
+.alert .icon-remove,
+#referral .preview-body,
+#info-window1.icon-remove,
+#info-window2.icon-remove {  font-size: 12px }
+
+.icon-lock,
+#user-email-label,
+#city-state-label,
+#user_email_edit_label {  margin-top: 8px }
+
+.alert,
+#radio1 {  margin-top: -10px }
+
+#radio1,
+#preview,
+.preview-body {  word-wrap: break-word }
+
+#radio1,
+#radio2 {  z-index: 0 }
+
+i,
+#send_referral,
+.icon-facebook {  margin-top: 4px }
+
+#sms_notifications,
+#email_notifications {  margin-top: -39px }
+
+#sms_notifications,
+#email_notifications,
+#sms-referral,
+#email-referral,
+#adopted-sieve {  text-align: right }
+
+#sms_notifications,
+#email_notifications,
+#sms-referral,
+#email-referral {  width: 10px }
+
+#sms-referral,
+#user_sms_referral_field,
+#email-referral,
+#user_email_referral_field,
+#preview,
+.preview-body {  margin-right: 4px }
+
+#user_sms_referral_field,
+#user_email_referral_field {
+  width: 169px;
+  margin-left: 35px
+}
+
+#user_sms_referral_field,
+#send_referral {  margin-bottom: 4px }
+
+#email-referral,
+#user_email_referral_field {  margin-top: -1px }
+
+#info-window,
+#referral {  overflow-x: hidden }
+
+.icon-download-alt,
+#download-link,
+#adopted-sieve,
+.icon-list-ul {  z-index: 1 }
+
+.icon-remove,
+.preview-title,
+#text1,
+#text2,
+.icon-caret-down,
+.icon-caret-right {  margin-top: 2px }
+
+#info-window1.icon-remove,
+#info-window2.icon-remove {
+  margin-top: 9px;
+  font-weight: bold;
+  color: #cccccc
+}
+
+#info-window2.icon-remove,
+.icon-download-alt {  float: right }
+
+#remember_me1,
+#reminder_button {  margin-bottom: -4px }
+
+.icon-lock,
+#adopted-sieve {  font-size: 10px }
+
+.icon-download-alt,
+#adopted-sieve {  height: 18px }
+
+.icon-download-alt,
+#download-link {
+  padding-top: 4px;
+  padding-bottom: 0px;
+  opacity: 0.75
+}
+
+#sieve,
+#sieve1 {
+  margin-left: 11px;
+  btn {  padding: 0px 5px }
+}
+
+.icon-list-ul,
+#extrusion {
+  border-top: 1px solid #CCC;
+  border-bottom: 1px solid #CCC;
+  background-color: #CCC
+}
+
+.icon-list-ul,
+#stat1-span {  border-radius: 0 4px 4px 0 }
+
+#test-refer,
+#locale {  position: relative }
+
+.badge {
+  margin-left: 114px;
+  border: 1px solid #cccccc;
+  border-bottom-color: #b3b3b3;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.4);
+}
+
+img {  margin-top: -8px }
+
+#adopt-a-hydrant-banff-snow-capped {  width: 212px }
+
+#cfa {  height: 40px }
+
+#boston-and-lexington-built {
+  width: 95px;
+  height: 44px;
+  margin-top: -7px
+}
+
+body {  margin: 0 }
+
+h1,h2 {  margin: 20px 0 10px }
+
+h2 {
+  font-size: 22px;
+  line-height: 25px;
+  margin: 12px 0px
+}
+
+#h2-infowindow {
+  border-bottom: 1px solid #DDDDDD;
+  margin-right: 3px;
+  margin-bottom: 16px
+}
+
+.icon-lock {
+  margin-left: 3px;
+  color: #999999
+}
+
+@-moz-document url-prefix() {
+  h2 {  font-family: MyriadPro-Regular }
+  .badge {  font-family: MyriadPro-Regular }
+  .control-group {  margin-bottom: 0px }
+  #info-window .control-group,
+  #abandon_button1 {  margin-bottom: 10px }
+  .group{  margin-top: -1px }
+  #user_zip{  margin-bottom: 0px }
+  .icon-lock {  margin-left: 5px }
+}
+
+input {  width: 200px }
+
+input[type="radio"],
+input[type="checkbox"] {
+  display: inline;
+  margin-right: 10px
+}
+
+form input.search-query {
+  -moz-border-radius: 14px;
+  -webkit-border-radius: 14px;
+  border-radius: 14px;
+  padding-left: 14px;
+  padding-right: 14px;
+  width: 180px
+}
+
+a.btn {  width: 188px }
+
+.table {  display: table }
+
+.table-row {  display: table-row }
+
+.table-cell {
+  display: table-cell;
+  vertical-align: top
+}
+
+.alert-message.block-message {  padding: 8px 12px 8px }
+
+.sidebar .alert-message.block-message {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0
+}
+
+.sidebar {
+  p {
+    padding: 0px;
+    margin-right: 20px
+  }
+  input,
+  select,
+  option,
+  button,
+  form.search-form input,
+  form.search-form select,
+  form.search-form option,
+  a.btn {
+	display: block;
+	margin-bottom: 10px
+  }
+  .form-actions,
+  .form-action {  padding: 17px 20px 10px }
+  p#tagline {
+	background-color: #c43c35;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear,left top,left bottom,from(#ee5f5b),to(#c43c35));
+	background-image: -moz-linear-gradient(top,#ee5f5b,#c43c35);
+	background-image: -ms-linear-gradient(top,#ee5f5b,#c43c35);
+	background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#ee5f5b),color-stop(100%,#c43c35));
+	background-image: -webkit-linear-gradient(top,#ee5f5b,#c43c35);
+	background-image: -o-linear-gradient(top,#ee5f5b,#c43c35);
+	background-image: linear-gradient(top,#ee5f5b,#c43c35);
+	border-color: #c43c35 #c43c35 #882a25;
+	border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.4);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ee5f5b',endColorstr='#c43c35',GradientType=0);
+	padding: 10px 20px
+  }
+  #logos {
+    height: 100px;
+	#syracusesaves_logo {  height: 55px }
+	#col2 {  margin-top: 15px }
+  }
+  #feedback {  margin-top: 25px }
+}
+
+#map {  padding: 1px }
+
+.upcase {  text-transform: uppercase }
+
+.alpha {  list-style-type: lower-alpha }
+
+.roman {  list-style-type: lower-roman }
+
+#required {
+  margin-top: -4px;
+  color: #ee5f5b;
+  margin-bottom: -6px
+}
+
+.required-password {  margin-bottom: 22px }
+
+.alert {
+  margin-bottom: 1px;
+  padding: 8px 20px 0px 14px
+}
+
+.btn-group[data-toggle='buttons-radio'] {  margin-top: 23px }
+
+#radio1 {  width: 83px }
+
+#radio2 {
+  margin-top: -30px;
+  margin-left: 124px;
+  width: 84px
+}
+
+i {  margin-right: -20px }
+
+#sms_notifications {  margin-left: 178px }
+
+#email_notifications {  margin-left: 147px }
+
+#sms-referral {  margin-bottom: -28px }
+
+#thing_name {  width: 138px }
+
+.icon-comment-alt,
+.icon-envelope {  margin-left: -3px }
+
+.icon-signin,
+.icon-plus,
+.icon-hdd {
+  margin-left: 10px;
+  margin-top: -32px
+}
+
+.icon-signin,
+.icon-plus {  margin-top: -29px }
+
+#radio {  margin-top: 100px }
+
+#radio2 {  margin-bottom: -8px }
+
+#radio1,
+#radio2 {  height: auto }
+
+#referral {  width: 248px }
+
+.icon-remove {
+  margin-right: 2px;
+  font-size: 14px
+}
+
+#referral h3 {  margin-left: 18px }
+
+#preview,
+.preview-body {  color: #9e9e9e }
+
+.preview-title {
+  color: #787878;
+  .icon-caret-down,
+  .icon-caret-right {  margin-left: -11px }
+}
+
+#info-window1.icon-remove {  margin-left: 225px }
+
+#referral #user-email-label {  margin-bottom: 6px }
+
+#info-window2.icon-remove {  margin-right: 9px }
+
+.icon-check,
+.icon-check-empty {  font-size: 13px }
+
+.icon-facebook {  margin-left: -2px }
+
+#reminder_button {  font-weight: normal }
+
+#info-window {
+  overflow-y: hidden;
+  padding-left: 1px
+}
+
+.icon-download-alt {
+  margin-left: 198px;
+  width: 14px
+}
+
+.icon-download-alt,
+.sign-in {  color: #08C }
+
+.sign-in:hover {  color: #005580 }
+
+#download-link {
+  margin-left: 218px;
+  padding-right: 6px;
+  padding-left: 2px
+}
+
+#adopted-sieve {
+  width: 7px;
+  background-image: none
+}
+
+.icon-filter {
+  margin-left: -6px;
+  margin-top: 6px
+}
+
+#sieve {  margin-top: 140px }
+
+#text {
+  opacity: 1.0;
+  margin-left: -56px
+}
+
+.icon-list-ul {
+  margin-left: -1px;
+  width: 22px;
+  height: 31px;
+  padding-top: 16px;
+  margin-top: 45%;
+  color: #969696;
+  box-shadow: 0px 2px 3px -2px #000000
+}
+
+#sieve1 {  margin-top: 50px }
+
+#extrusion {
+  padding-right: 4px;
+  margin-left: 14px;
+  width: 4px;
+  border-radius: 0px 4px 4px 0px;
+  height: 47px;
+  margin-top: -33px;
+  color: #CCC;
+  box-shadow: -2px 0px 5px -2px whiteSmoke
+}
+
+#test-sidebar {
+  z-index: 4;
+  margin-left: -250px
+}
+
+#test-refer {
+  margin-top: -180px;
+  z-index: 50
+}
+
+#stat1 {  margin-left: 46px }
+
+#stat1-span {
+  padding-left: 0px;
+  border-left: 0
+}
+
+#stat-span {
+  border-radius: 4px 0 0 4px;
+  border-right: 0
+}
+
+.stats-container {  margin-left: -74px }
+
+#text2 {  margin-left: 6px }
+
+#download{  margin-left: -10px }
+
+a:hover,
+.icon-download-alt:hover {  text-decoration: none }
+
+#locale {  bottom: 0 }
+
+#check1:hover,
+.icon-list-ul:hover,
+.sign-in:hover {  cursor: pointer }

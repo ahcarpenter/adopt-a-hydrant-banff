@@ -1,0 +1,109 @@
+# Please maintain alphabetical order
+
+gr:
+  buttons:
+    abandon: 'Εγκαταλείψτε το κρουνό'
+    adopt: 'Υιοθέτηση!'
+    back: 'πίσω'
+    change_password: 'Αλλαγή του κωδικού μου'
+    close: 'κοντά'
+    connect: 'Σύνδεση'
+    edit_profile: 'Επεξεργασία του προφίλ'
+    email_password: 'Στείλε μου τον κωδικό μου'
+    find: "Βρείτε %{thing}"
+    send_referral: 'Αποστολή παραπομπή'
+    send_reminder: 'Αποστολή υπενθύμιση φτυάρι'
+    sign_in: 'Σύνδεση'
+    sign_out: 'Έξοδος'
+    sign_up: 'Εγγραφή'
+    update: 'Ενημέρωση'
+  captions:
+    private: '(ιδιωτική)'
+  defaults:
+    address: 'διεύθυνση'
+    address_1: '55 Eddy St.'
+    address_2: ''
+    city: 'Banff'
+    city_state: 'Banff, Alberta'
+    neighborhood: 'Downtown'
+    sms_number: '403-555-555'
+    state: 'AB'
+    thing: 'στόμιο υδροληψίας'
+    this_thing: "Αυτό %{thing}"
+    tagline: 'Αναλαμβάνουν την ευθύνη για φτυαρίζει ένα πυροσβεστικό κρουνό αφού χιονίζει.'
+    tos: "Με την εγγραφή, συμφωνείτε με τους %{tos}."
+    voice_number: '403-555-555'
+    zip: 'T1L 1A1'
+  errors:
+    password: 'Θα πρέπει να συνδεθείτε ή να εγγραφείτε πριν συνεχίσετε.'
+    not_found: "Αδύνατη η εύρεση %{thing}."
+  labels:
+    address: 'Διεύθυνση'
+    address_1: 'Διεύθυνση 1'
+    address_2: 'Διεύθυνση 2'
+    city: 'πόλη'
+    city_state: 'πόλη'
+    disable_adopted_sieve: 'Απενεργοποίηση υιοθέτησε κόσκινο'
+    disable_email_notifications: 'Απενεργοποίηση ειδοποίηση μέσω ηλεκτρονικού ταχυδρομείου εάν χιονόπτωσης έχει προβλεφθεί'
+    disable_sms_notifications: 'Απενεργοποίηση ειδοποίηση μέσω SMS, εάν χιονόπτωσης έχει προβλεφθεί'
+    disable_email_transmission: 'Απενεργοποιήστε τη μετάδοση μέσω e-mail'
+    disable_sms_transmission: 'Απενεργοποίηση μετάδοση μέσω SMS'
+    email: 'διεύθυνση ηλεκτρονικού ταχυδρομείου'
+    enable_adopted_sieve: 'Ενεργοποίηση υιοθέτησε κόσκινο'
+    enable_email_notifications: 'Ενεργοποίηση ειδοποίηση μέσω ηλεκτρονικού ταχυδρομείου εάν χιονόπτωσης έχει προβλεφθεί'
+    enable_sms_notifications: 'Ενεργοποίηση ειδοποίηση μέσω SMS όταν χιονόπτωσης έχει προβλεφθεί'
+    enable_email_transmission: 'Είναι δυνατή η μετάδοση μέσω email'
+    enable_sms_transmission: 'Ενεργοποίηση μετάδοση μέσω SMS'
+    log_in: 'Σύνδεση'
+    name: 'όνομα'
+    name_thing: "Δώστε σε αυτό %{thing} ένα όνομα"
+    organization: 'Oργάνωση'
+    password: 'Κωδικός'
+    password_choose: 'Επιλέξτε έναν κωδικό πρόσβασης'
+    password_current: 'Τρέχουσα κωδικό πρόσβασης'
+    password_new: 'Νέος κωδικός'
+    preview: 'Προεπισκόπηση'
+    remember_me: 'Να με θυμάσαι'
+    required: 'Απαιτείται'
+    sidebar: 'Πατήστε για να σύρετε sidebar'
+    sms_number: 'Αριθμός κινητού τηλεφώνου'
+    state: 'πολιτεία'
+    user_existing: 'Έχω ήδη εγγραφεί'
+    user_new: 'Δεν έχω υπογράψει ακόμα'
+    voice_number: 'Αρχική αριθμό τηλεφώνου'
+    zip: 'ταχυδρομικός τομέας'
+  links:
+    data: 'δεδομένα'
+    feedback: 'Αποστολή σχολίων'
+    forgot_password: 'Ξεχάσατε τον κωδικό σας;'
+    remembered_password: 'Δεν πειράζει. Θυμήθηκα τον κωδικό μου.'
+  notices:
+    abandoned: 'Υδροληψίας εγκαταλειφθεί!'
+    adopted: 'Υδροληψίας υιοθέτησε!'
+    password_reset: 'Οδηγίες επαναφοράς κωδικού πρόσβασης εστάλη! Ελέγξτε το email σας.'
+    profile_updated: 'Ενημερωμένο προφίλ!'
+    referral_sent: 'Παραπομπή εστάλη!'
+    referral0: 'έχει αναφερθεί να'
+    referral1: 'Μπορεί να σας ενδιαφέρουν τα παρακάτω:'
+    reminder_sent: 'Υπενθύμιση εστάλη!'
+    signed_in: 'Συνδέθηκε!'
+    signed_out: 'Καταγράφηκε έξω.'
+    signed_up: 'Ευχαριστούμε για την εγγραφή!'
+    stolen: 'Υδροληψίας κλαπεί!'
+  questions:
+    abandon: 'Είστε βέβαιοι ότι θέλετε να εγκαταλείψουμε αυτό το κρουνό;'
+  sponsors:
+    built: 'Χτισμένο στη Βοστώνη & Λέξινγκτον'
+    cfa: 'Κωδικός για την Αμερική'
+  titles:
+    adopt: "Υιοθετήστε αυτή %{thing}"
+    adopted: "%{thing_name} έχει υιοθετηθεί"
+    byline: "με %{name}"
+    conflict: "Σας ευχαριστούμε για την %{thing} υιοθέτηση νωρίτερα!"
+    edit_profile: 'Επεξεργασία του προφίλ σας'
+    main: "Adopt-a-%{thing}"
+    ofline: "του %{organization}"
+    referral: 'Ανατρέξτε'
+    sign_in: "να εγκρίνει την παρούσα κρουνό"
+    thank_you: "Σας ευχαριστούμε για την έγκριση αυτής %{thing}!"
+    tos: 'Όροι Χρήσης'
