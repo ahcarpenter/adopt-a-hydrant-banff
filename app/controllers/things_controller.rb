@@ -20,5 +20,4 @@ class ThingsController < ApplicationController
       session[:conflict] = true
       redirect_to(:controller => 'info_window', :action => 'index')
     end
-    puts session[:thing].reverse_geocode
 end
