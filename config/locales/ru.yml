@@ -21,18 +21,18 @@ ru:
     private: '(частное)'
   defaults:
     address: 'адрес'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: 'гидрант'
     this_thing: "Это %{thing}"
     tagline: 'На себя ответственность за лопатой из пожарного гидранта после того, как снег.'
     tos: "Зарегистрировавшись, вы соглашаетесь с  %{tos}."
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: 'Вы должны войти в систему или зарегистрироваться, прежде чем продолжить.'

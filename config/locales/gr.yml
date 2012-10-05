@@ -21,18 +21,18 @@ gr:
     private: '(ιδιωτική)'
   defaults:
     address: 'διεύθυνση'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: 'στόμιο υδροληψίας'
     this_thing: "Αυτό %{thing}"
     tagline: 'Αναλαμβάνουν την ευθύνη για φτυαρίζει ένα πυροσβεστικό κρουνό αφού χιονίζει.'
     tos: "Με την εγγραφή, συμφωνείτε με τους %{tos}."
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: 'Θα πρέπει να συνδεθείτε ή να εγγραφείτε πριν συνεχίσετε.'

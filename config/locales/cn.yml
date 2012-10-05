@@ -21,18 +21,18 @@ cn:
     private: '（私人）'
   defaults:
     address: '地址'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: '消防栓'
     this_thing: '這個消防栓'
     tagline: '下雪後鏟出一個消防栓的索賠責任。'
     tos: "通過簽約，你同意到%{tos}。"
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: '您需要登錄或註冊，然後再繼續。'

@@ -21,18 +21,18 @@ ht:
     private: '(prive)'
   defaults:
     address: 'adrès'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: 'tiyo'
     this_thing: "Sa a %{thing}"
     tagline: 'Responsablite reklamasyon pou peltan soti yon tiyo dife apre li fin nèj.'
     tos: "Lè ou siyen yo, ou dakò ak %{tos}."
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: 'Ou bezwen Pou ouvri sesyon nan oswa si ou siyen kanpe devan kontinye.'

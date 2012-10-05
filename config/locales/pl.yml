@@ -21,18 +21,18 @@ pl:
     private: '(prywatny)'
   defaults:
     address: 'adres'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: 'hydrant'
     this_thing: "Ten %{thing}"
     tagline: 'Odpowiedzialność roszczenie o odgarnianie się hydrant po pada śnieg'
     tos: "Zapisując się, wyrażasz zgodę na %{tos}."
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: 'Musisz się zalogować lub zarejestrować się przed kontynuowaniem.'

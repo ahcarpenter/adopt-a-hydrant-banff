@@ -24,18 +24,18 @@ en:
     required: '(required)'
   defaults:
     address: 'address'
-    address_1: '55 Eddy St.'
+    address_1: '206 Banff Avenue'
     address_2: ''
     city: 'Banff'
     city_state: 'Banff, Alberta'
     neighborhood: 'Downtown'
-    sms_number: '403-555-555'
+    sms_number: '403-555-5555'
     state: 'AB'
     thing: 'hydrant'
     this_thing: "This %{thing}"
     tagline: 'Claim responsibility for shoveling out a fire hydrant after it snows.'
     tos: "By signing up, you agree to the %{tos}."
-    voice_number: '403-555-555'
+    voice_number: '403-555-5555'
     zip: 'T1L 1A1'
   errors:
     password: 'You need to log in or sign up before continuing.'
