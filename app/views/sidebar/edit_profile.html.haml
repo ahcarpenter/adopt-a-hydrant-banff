@@ -30,7 +30,7 @@
     = f.text_field 'city', :autocomplete => 'off'
   %fieldset.control-group
     %label{:for => 'user_area', :id => 'user_area_label'}
-      = t('labels.state')
+      = t('labels.area')
     = f.select 'area', provinces_and_territories, :include_blank => true
   %fieldset.control-group
     %label{:for => 'user_zip', :id => 'user_zip_label'}
