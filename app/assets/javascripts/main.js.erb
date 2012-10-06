@@ -1094,7 +1094,7 @@ $(function(){
             'address_1': $('#user_address_1').val(),
             'address_2': $('#user_address_2').val(),
             'city': $('#user_city').val(),
-            'state': $('#user_state').val(),
+            'area': $('#user_area').val(),
             'zip': $('#user_zip').val()
           }
         },
@@ -1130,8 +1130,8 @@ $(function(){
             $('#user_city').parent().addClass('error')
           }
           if(data.errors.state){
-            errors.push($('#user_state'))
-            $('#user_state').parent().addClass('error')
+            errors.push($('#user_area'))
+            $('#user_area').parent().addClass('error')
           }
           if(data.errors.zip){
             errors.push($('#user_zip'))

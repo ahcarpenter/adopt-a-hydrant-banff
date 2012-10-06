@@ -2,7 +2,7 @@ class User < ActiveRecord::Base
   devise :database_authenticatable, :registerable, :recoverable, :rememberable,
     :trackable, :validatable
   attr_accessible :address_1, :address_2, :city, :email, :name, :organization,
-    :password, :password_confirmation, :remember_me, :sms_number, :state, :zip
+    :password, :password_confirmation, :remember_me, :sms_number, :area, :zip
   validates_formatting_of :email, :using => :email
   validates_formatting_of :sms_number, :using => :us_phone, :allow_blank => true
   validates_formatting_of :zip, :using => :us_zip, :allow_blank => true

@@ -29,9 +29,9 @@
       = t('labels.city')
     = f.text_field 'city', :autocomplete => 'off'
   %fieldset.control-group
-    %label{:for => 'user_state', :id => 'user_state_label'}
+    %label{:for => 'user_area', :id => 'user_area_label'}
       = t('labels.state')
-    = f.select 'state', us_states, :include_blank => true
+    = f.select 'area', provinces_and_territories, :include_blank => true
   %fieldset.control-group
     %label{:for => 'user_zip', :id => 'user_zip_label'}
       = t('labels.zip')
