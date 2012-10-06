@@ -68,7 +68,7 @@ he:
     required: 'דרוש'
     sidebar: 'קש כדי להחליק צדדי'
     sms_number: 'מספר הטלפון הנייד'
-    state: 'מדינה'
+    area: 'מחוז או טריטוריה'
     user_existing: "חתמתי כבר"
     user_new: "אני לא נרשמת עדיין"
     voice_number: 'טלפון בבית'

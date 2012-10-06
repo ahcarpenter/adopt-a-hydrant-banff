@@ -69,7 +69,7 @@ de:
     required: 'Erforderlich'
     sidebar: 'Tippen Sie auf Seitenleiste schieben'
     sms_number: 'Handy-Nummer'
-    state: 'Zustand'
+    area: 'Provinz oder Territorium'
     user_existing: 'Ich habe schon unterschrieben'
     user_new: 'Ich habe noch nicht registriert'
     voice_number: 'Startseite Telefonnummer'

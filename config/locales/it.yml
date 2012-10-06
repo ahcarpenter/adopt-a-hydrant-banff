@@ -67,7 +67,7 @@ it:
     required: 'Richiesto'
     sidebar: 'Toccare per scorrere barra laterale'
     sms_number: 'Numero di telefono cellulare'
-    state: 'Stato'
+    area: 'Provincia o territorio'
     user_existing: 'Ho già firmato'
     user_new: 'Non ho ancora registrato'
     voice_number: 'Numero di telefono di casa'

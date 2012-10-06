@@ -67,7 +67,7 @@ pl:
     required: 'Wymagany'
     sidebar: 'Stuknij, aby przesunąć pasek boczny'
     sms_number: 'Numer telefonu komórkowego'
-    state: 'Stan'
+    area: 'Prowincja lub terytorium'
     user_existing: 'Ja już podpisały'
     user_new: 'Nie masz jeszcze konta'
     voice_number: 'Numer telefonu domowego'

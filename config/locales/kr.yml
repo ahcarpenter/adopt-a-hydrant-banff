@@ -67,7 +67,7 @@ kr:
     required: '필수'
     sidebar: '사이드 밀어하려면 누르세요'
     sms_number: '휴대폰 번호'
-    state: '상태'
+    area: '주 또는 지역'
     user_existing: '이미 가입한'
     user_new: '이미 아직 가입'
     voice_number: '홈 전화 번호'

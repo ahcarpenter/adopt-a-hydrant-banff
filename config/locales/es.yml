@@ -67,7 +67,7 @@ es:
     required: 'Necesario'
     sidebar: 'Pulse para deslizar la barra lateral'
     sms_number: 'Número de teléfono móvil'
-    state: 'Estado'
+    area: 'Provincia o territorio'
     user_existing: 'Ya he firmado'
     user_new: 'No se ha inscrito'
     voice_number: 'Número de teléfono'

@@ -67,7 +67,7 @@ cn:
     required: '需要'
     sidebar: '點擊滑動側邊欄'
     sms_number: '手機號碼'
-    state: '州'
+    area: '省或地區'
     user_existing: '我已經簽署了'
     user_new: '我還沒有簽署，但'
     voice_number: '家裡的電話號碼'

@@ -67,7 +67,7 @@ ht:
     required: 'Obligatwa'
     sidebar: 'Tiyo glise ankadre'
     sms_number: 'Telefòn mobil nimewo'
-    state: 'Eta'
+    area: 'Pwovens oswa teritwa'
     user_existing: 'Mwen te deja siyen moute'
     user_new: 'Mwen pa te siyen moute ankò'
     voice_number: 'Nimewo Telefòn Lakay'

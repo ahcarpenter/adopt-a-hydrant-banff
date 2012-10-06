@@ -70,7 +70,7 @@ en:
     required: 'Required'
     sidebar: 'Tap to slide sidebar'
     sms_number: 'Mobile phone number'
-    state: 'State'
+    area: 'Province or territory'
     user_existing: "I've already signed up"
     user_new: "I haven't signed up yet"
     voice_number: 'Home phone number'

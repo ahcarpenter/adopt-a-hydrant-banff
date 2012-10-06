@@ -68,7 +68,7 @@ fr:
     required: 'Requis'
     sidebar: 'Appuyez sur pour faire glisser la barre latérale'
     sms_number: 'Le numéro de téléphone mobile'
-    state: 'Etat'
+    area: 'Province ou territoire'
     user_existing: "J'ai déjà signé"
     user_new: "Je n'ai pas encore inscrits"
     voice_number: 'Le numéro de téléphone Accueil'
