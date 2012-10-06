@@ -2,7 +2,7 @@ class AddressesController < ApplicationController
   respond_to :json
 
   def show
-    @address = Address.geocode("#{params[:address]}, #{params[:city_state]}")
+    @address = Address.geocode("#{params[:address]}, #{params[:city_province]}")
     unless @address.blank?
       respond_with @address
     else

@@ -170,7 +170,7 @@ $(function(){
 	if(opera || iPad){adjustMapHeight($(window).height())}
   }
   function _webkit(){
-	$('#user-email-label, #city-state-label, #user_email_edit_label').css('margin-top','15px')
+	$('#user-email-label, #city-label, #user_email_edit_label').css('margin-top','15px')
 	$('#user-remember-me').css('margin-top','2px')
 	$('.required-password').css('margin-bottom','21px')
 	$('.modal-header').css('margin-bottom','-15px')
@@ -396,7 +396,7 @@ $(function(){
         data: {
           'utf8': '✓',
           'authenticity_token': $("#address_form input[name='authenticity_token']").val(),
-          'city_state': $('#city_state').val(),
+          'city_province': $('#city_province').val(),
           'address': $('#address').val()
         },
         error: function(jqXHR){
